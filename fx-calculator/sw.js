@@ -6,6 +6,7 @@ self.addEventListener('install', (event) =>{
             'app.js',
             'icon512.png',
             'icon192.png',
+            'favicon.ico',
             'icon16.png',
             'fixer.json',
             'manifest.webmanifest'
